@@ -2,6 +2,20 @@
 
 複数の水中ドローンを制御・通信できるWebベースの制御システム。
 
+## 予測コスト
+
+### Free Tier期間中 (最初の12ヶ月)
+- ECS Fargate Spot: $0-5/月 (750時間無料)
+- Application Load Balancer: $0/月 (750時間無料)
+- S3 + CloudFront: $0-1/月 (S3: 5GB無料, CloudFront: 50GB/月無料)
+合計: $0-5/月
+
+### Free Tier期間後
+- ECS Fargate Spot: $5-10/月 (通常価格から70%削減)
+- Application Load Balancer: $15-20/月
+- S3 + CloudFront: $1-2/月
+合計: $20-30/月
+
 ## 機能
 
 - マルチドローン制御
